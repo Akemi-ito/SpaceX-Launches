@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/logo.png" alt="SpaceX Launches Tracker" width="200">
+</p>
+
 # SpaceX Launches Tracker 🚀
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
