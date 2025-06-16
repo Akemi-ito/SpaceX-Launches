@@ -72,9 +72,9 @@ SpaceX-Launches-Tracker/
 ```
 
 ## 📸 Captures d'Écran
-| Interface Principale | Graphique des Stats |
-|----------------------|---------------------|
-| ![Interface](assets/screenshot_main.png) | ![Graphique](assets/screenshot_stats.png) |
+| Interface Principale                       | Graphique des Stats                    |
+|--------------------------------------------|----------------------------------------|
+| ![Interface](assets/Capture_Interface.png) | ![Graphique](assets/Capture_Graph.png) |
 
 ## 🔧 Technologies
 - **Python 3.8+**
