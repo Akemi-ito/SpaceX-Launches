@@ -4,7 +4,7 @@ from PIL import Image, ImageTk
 from database.db_operations import DBOperations
 from scraping.spacex_scraper import SpaceXScraper
 from utils.utils import show_error, show_info, show_warning, ask_confirmation, create_matplotlib_graph
-import os
+
 
 class MainWindow:
     def __init__(self, root):

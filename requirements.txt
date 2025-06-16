@@ -1,19 +1,4 @@
-# Requirements pour SpaceX Launches Tracker
-# Python 3.8+
-
-# Interface graphique
-tkinter>=8.6  # Normalement inclus avec Python
-
-# Base de données
-pymongo>=4.3.3
-
-# Scraping
-selenium>=4.9.0
-webdriver-manager>=3.8.6  # Optionnel (pour gestion automatique de ChromeDriver)
-
-# Graphiques et visualisation
-matplotlib>=3.7.1
-numpy>=1.24.3  # Dépendance de matplotlib
-
-# Gestion d'images (pour le logo)
-pillow>=9.5.0
+pymongo>=4.6.0
+selenium>=4.20.0
+matplotlib>=3.8.0
+Pillow>=10.3.0

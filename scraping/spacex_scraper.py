@@ -14,7 +14,7 @@ class SpaceXScraper:
             self.chrome_options.add_argument("--disable-gpu") # desactiver l'accelerationn gpu
 
         # Chemin ChromeDriver
-        self.chrome_driver_path = "C:/Users/mathi/Downloads/chromedriver-win64/chromedriver-win64/chromedriver.exe"
+        self.chrome_driver_path = "C:/Users/Akemi/Ynov/chromedriver-win64/chromedriver.exe"
 
         # Vérification que le fichier existe
         if not os.path.exists(self.chrome_driver_path):

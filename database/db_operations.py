@@ -1,6 +1,5 @@
-import pymongo
 from pymongo import MongoClient
-import json
+
 
 class DBOperations:
     def __init__(self, db_name="spacex_db", collection_name="launches"):
